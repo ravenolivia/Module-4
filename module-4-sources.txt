@@ -1,0 +1,5 @@
+External sources used for module 4:
+
+https://docs.github.com/en/pull-requests/how-tos/commit-changes/managing-branches-within-your-repository
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart
